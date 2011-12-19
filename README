@@ -1,0 +1,1 @@
+Quadtree implementation in C using CoreFoundation (CFMutableArrayRef) and CoreGraphics (CGRect, CGPoint). Complete with unit tests. Provided as is.
