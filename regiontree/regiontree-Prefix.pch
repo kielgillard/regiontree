@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'regiontree' target in the 'regiontree' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
